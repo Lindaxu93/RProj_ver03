@@ -1,0 +1,11 @@
+---
+title: "test for Git"
+output: html_notebook
+---
+
+```{r}
+b<- 6
+b
+plot(b)
+```
+
